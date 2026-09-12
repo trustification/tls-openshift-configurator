@@ -7,7 +7,7 @@ require (
 	github.com/onsi/gomega v1.36.2
 	github.com/openshift/api v0.0.0-20240830023148-b7d0481c9094
 	github.com/openshift/client-go v0.0.0-20240528061634-b054aa794d87
-	k8s.io/apimachinery v0.31.4
+	k8s.io/apimachinery v0.37.0
 	k8s.io/client-go v0.31.4
 )
 
@@ -47,7 +47,7 @@ require (
 	gopkg.in/inf.v0 v0.9.1 // indirect
 	gopkg.in/yaml.v2 v2.4.0 // indirect
 	gopkg.in/yaml.v3 v3.0.1 // indirect
-	k8s.io/api v0.31.4 // indirect
+	k8s.io/api v0.37.0 // indirect
 	k8s.io/klog/v2 v2.130.1 // indirect
 	k8s.io/kube-openapi v0.0.0-20240430033511-f0e62f92d13f // indirect
 	k8s.io/utils v0.0.0-20240711033017-18e509b52bc8 // indirect
