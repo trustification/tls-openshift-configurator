@@ -1,5 +1,4 @@
-# Build stage
-FROM registry.access.redhat.com/hi/go:1.26.7 AS builder
+FROM registry.access.redhat.com/hi/go:1.27.1 AS builder
 
 # Set working directory
 WORKDIR /workspace
